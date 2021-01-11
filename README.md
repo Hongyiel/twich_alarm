@@ -1,6 +1,5 @@
 # twich_alarm
   
 # Material
-  
-  ## English
-  ## Korean
+  - ## English
+  - ## Korean
