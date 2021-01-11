@@ -1,5 +1,6 @@
 # twich_alarm
-  
+  - ## Reference
+        - Reference ::https://learn.adafruit.com/automatic-twitch-on-air-sign?view=all
 # Material
   - ## English
         - https://dev.twitch.tv/docs/api/reference#search-channels
