@@ -5,8 +5,8 @@ URL = 'https://api.twitch.tv/helix/streams?user_login=woowakgood'
 authURL = 'https://id.twitch.tv/oauth2/token'
 
 # This could be change
-Client_ID = 'type your client ID'
-Secret  = 'type your secret here'
+Client_ID = '1cfajfk4cpnfo6nql6fw7nqdgwrbym'
+Secret  = 'dyua0rlbefuqceogqraa7wh1t4u7gn'
 
 getInfo = {'client_id': Client_ID,
              'client_secret': Secret,
